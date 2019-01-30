@@ -27,6 +27,5 @@ input ExpenseInput {
   others: String
   money: Float
   comment: String
-  account: Float
 }
 `
